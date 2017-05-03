@@ -4,6 +4,7 @@ set (worlds
   underwater_heightmap.world
   empty_underwater.world
   ocean_waves.world
+  lake.world
 )
 
 # Install all the world files

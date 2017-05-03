@@ -5,6 +5,7 @@ set(dirs
     ocean_box
     rov_bop_panel
     umbilical
+    lake
 )
 
 foreach(dir ${dirs})
